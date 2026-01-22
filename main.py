@@ -750,5 +750,5 @@ async def on_ready():
     await bot.change_presence(activity=discord.Game(name="!help | ESTIM-X9000 Online"))
 
 # Run the bot
-TOKEN = 'MTQ2NDAzNjU5NDA3NTA0MTgxMw.GbEsQZ.XJhkcOWjLLLlB8-T6eyn-esLoSPShoPy_krplA'
+adwad
 bot.run(TOKEN)
